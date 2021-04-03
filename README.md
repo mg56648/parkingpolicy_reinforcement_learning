@@ -1,2 +1,2 @@
 # parkingpolicy - Reinforcement Learning
-Machine learning to find optimal parking spots in downtown
+Reinforcement learning to find optimal parking spots in downtown
